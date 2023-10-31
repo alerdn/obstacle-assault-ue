@@ -31,6 +31,7 @@ void AMovingPlatform::Tick(float DeltaTime)
 
 	if (Distance > DistanceMoved)
 	{
+		UE_LOG(LogTemp, Display, TEXT("%s's movement overshot by %f"), *GetName(), Distance - DistanceMoved);
 		FVector MoveDirection = PlatformVelocity.GetSafeNormal();
 		StartLocation += MoveDirection * DistanceMoved;
 		PlatformVelocity *= -1;
