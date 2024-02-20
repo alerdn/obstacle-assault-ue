@@ -7,7 +7,7 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault.json"
+            "compileCommands": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_ObstacleAssault.json"
         },
         {
             "name": "Win32",
@@ -16,7 +16,7 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

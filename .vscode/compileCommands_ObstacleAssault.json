@@ -1,41 +1,41 @@
 [
 	{
-		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\Source\\ObstacleAssault\\MovingPlatform.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\Source\\ObstacleAssault\\MovingPlatform.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"file": "C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\Source\\ObstacleAssault\\ObstacleAssault.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+			"@C:\\Users\\alexa\\Documents\\Unreal Projects\\obstacle-assault-ue\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	}

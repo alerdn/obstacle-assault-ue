@@ -19,7 +19,7 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:
+private:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
@@ -30,4 +30,7 @@ public:
 	float DistanceMoved = 100;
 
 	FVector StartLocation;
+
+	void MovePlatform(float DeltaTime);
+	void RotatePlatform(float DeltaTime);
 };
