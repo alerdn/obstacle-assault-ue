@@ -27,10 +27,14 @@ private:
 	FVector PlatformVelocity = FVector(100, 0, 0);
 
 	UPROPERTY(EditAnywhere, Category = "Moving Platform")
-	float DistanceMoved = 100;
+	float MoveDistance = 100;
 
 	FVector StartLocation;
 
 	void MovePlatform(float DeltaTime);
 	void RotatePlatform(float DeltaTime);
+	
+	bool ShouldPlatformReturn();
+
+	float GetDistanceMoved();
 };
